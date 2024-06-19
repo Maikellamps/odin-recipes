@@ -1,0 +1,17 @@
+.back-color{
+    background-color: rgb(201, 230, 230);
+}
+.ul-box{
+    width: 800px;
+    background-color: aliceblue;
+    margin: 30px auto;
+    padding: 20px 10px;
+}
+h1{
+    text-align: center;
+}
+li{
+    padding: 10px;
+    text-align: center;
+}
+.fufu{}
